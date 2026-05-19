@@ -1,0 +1,8 @@
+flask
+flask-jwt-extended
+flask-cors
+flask-sqlalchemy
+PyPDF2
+python-docx
+requests
+flask_bcrypt
